@@ -1,5 +1,5 @@
 {
-    "name": "asantibanez/livewire-calendar",
+    "name": "jurri/livewire-calendar",
     "description": "Laravel Livewire calendar component",
     "keywords": [
         "asantibanez",
@@ -13,11 +13,14 @@
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "jurri",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0",
+        "php": "^8.0|^8.1",
         "livewire/livewire": "^2.0"
     },
     "require-dev": {
